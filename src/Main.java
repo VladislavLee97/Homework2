@@ -74,6 +74,7 @@ public class Main {
         var overload = boxer2Weight % boxer1Weight;
         System.out.println("Разница в весе с помощью остатка деления " + overload + " кг" );
 
+
     }
     public static void task8 () {
         System.out.println("Задача 8");
